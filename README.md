@@ -1,3 +1,2 @@
-# hello world
-Hi there! I'm Srujan, a doctor and tech enthusiast.
+a doctor and tech enthusiast.
 This GitHub page showcases my work on medical education.
